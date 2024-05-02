@@ -33,8 +33,10 @@ Examples:
 6. Visual Inspection
 
 Types of Supervised Learning:
--Regression:  we're trying to predict a number from infinitely many possible numbers such as the house prices
--Classification: we're trying to predict only a small number of possible outputs or categories
+- Regression:  we're trying to predict a number from infinitely many possible numbers such as the house prices
+- Classification: we're trying to predict only a small number of possible outputs or categories
+
+
 
 
 Unsupervised Learning: data is not assigned to any specific label
